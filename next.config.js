@@ -1,4 +1,6 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+  images: ['i.pravatar.cc'],
+};
 
 module.exports = nextConfig;
